@@ -1,0 +1,10 @@
+build/
+dist/
+tools/
+.vs/
+CMakeUserPresets.json
+CMakeCache.txt
+*.user
+*.png
+!docs/screenshot.png
+*.log
